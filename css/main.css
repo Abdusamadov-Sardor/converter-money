@@ -1,0 +1,56 @@
+.container{
+  width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.heading{
+  text-align: center;
+  font-weight: bold;
+  color: blue;
+  font-size: 40px;
+}
+.form{
+  padding: 40px;
+
+}
+.input{
+  border: 1px solid blue;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+.btn{
+  padding: 20px;
+  background: #000;
+  opacity: 0.5;
+  color: white;
+  border-radius: 10px;
+}
+.select{
+  width: 150px;
+  background: blue;
+  margin-left: 50px;
+  padding: 18px;
+  appearance: none;
+  opacity: 0.4;
+  border-radius: 10px;
+}
+.option{
+  color: white;
+  opacity: 0.8;
+  border: 2px solid black;
+}
+
+.p-sum{
+  display: none;
+}
+
+.p-euro{
+  display: none;
+}
+
+.p-usd{
+  display: none;
+}
